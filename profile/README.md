@@ -1,5 +1,4 @@
-
-![Fisheye Collaboration logo-01](https://github.com/FinDrop-Acoustics/.github/assets/69335573/527c383d-c2ce-4504-acd5-50c839e3c32c)
+![Fisheye Collaboration logo-01](https://github.com/FinDrop-Acoustics/.github/assets/69335573/54b2d223-e0e5-4c7f-afc5-71e626acfb9e)
 # FishEye Collaborative Hardware and Software Management
 Leveraging the power of emergent underwater listening technologies to advance our understanding of coral reef ecosystems and near-shore fisheries. Our work aims to improve sustainable management decisions for fisheries and biodiverse ecosystems and bolster local blue economies through research, education, and capacity building.
 
